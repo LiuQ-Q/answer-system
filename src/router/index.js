@@ -1,8 +1,8 @@
-import Vue from 'vue'
-import Router from 'vue-router'
-import Paper from '@/components/AnswerArea.vue'
+import Vue from 'vue';
+import Router from 'vue-router';
+import Paper from '@/components/Paper';
 
-Vue.use(Router)
+Vue.use(Router);
 
 export default new Router({
   routes: [
@@ -15,4 +15,4 @@ export default new Router({
       redirect: '/paper'
     }
   ]
-})
+});

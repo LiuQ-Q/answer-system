@@ -7,11 +7,14 @@
       v-model="answer"
     >
       <b-form-radio
-        v-for="(item, index) in options.optionList"
-        :key="index"
         class="py-2"
-        :value="!index"
-      >{{ item }}</b-form-radio>
+        :value=true
+      >是</b-form-radio>
+      
+      <b-form-radio
+        class="py-2"
+        :value=false
+      >否</b-form-radio>
     </b-form-radio-group>
   </div>
 </template>
