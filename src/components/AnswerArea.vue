@@ -4,27 +4,27 @@
 			<b-card class="border-0">
 				<b-card-text>考核共20道题,每题5分,60分以上合格,考核共20道题,每题5分,60分以上合格</b-card-text>
 			</b-card>
-			<b-form-group class="mb-0">
-				<!-- 题目 -->
-				<b-card
-					v-for="(topic, index) in topicList"
-					:key="index"
-					class="mb-3"
-				>
-					<component
-						:is="Question[topic.type]"
-						:topicIndex="index"
-						:options="topic" />
-				</b-card>
-				<!-- 提交按钮 -->
-				<b-card class="border-0 mb-3">
-					<b-button 
-						type="submit" 
-						block
-						variant="primary"
-					>交卷</b-button>
-				</b-card>
-			</b-form-group>
+			<b-card
+				v-for="(topic, index) in topicList"
+				:key="index"
+				class="mb-3"
+			>
+				<component
+					:is="Question[topic.type]"
+					:topicIndex="index"
+					:options="topic"
+					v-model="answer[index]"
+					ref="questionComponent" />
+			</b-card>
+			<!-- 提交按钮 -->
+			<b-card class="border-0 mb-3">
+				<b-button 
+					type="submit" 
+					block
+					variant="primary"
+					@click="getAnswer"
+				>交卷</b-button>
+			</b-card>
 		</b-container>
 	</div>
 </template>
@@ -39,11 +39,12 @@ import dataDraw from './data-draw.js';
 const Question = [QuestionSingle, QuestionMultiple, QuestionAssertion];
 
 export default {
-	name: 'answerArea',
+	name: 'Paper',
 	data () {
 		return {
 			data,
-			questionAmount: 10
+			questionAmount: 10,
+			answer: []
 		}
 	},
 	computed: {
@@ -53,6 +54,15 @@ export default {
 		
 		Question () {
 			return Question;
+		}
+	}, 
+	methods: {
+		getAnswer () {
+			Object.keys(this.$refs.questionComponent).forEach(key => {
+				this.answer.push(this.$refs.questionComponent[key].selected)
+			})
+			console.log(this.answer);
+
 		}
 	}
 }

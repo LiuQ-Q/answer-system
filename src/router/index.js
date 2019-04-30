@@ -1,15 +1,18 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import AnswerArea from '@/components/AnswerArea.vue'
+import Paper from '@/components/AnswerArea.vue'
 
 Vue.use(Router)
 
 export default new Router({
   routes: [
     {
+      path: '/paper',
+      component: Paper
+    },
+    {
       path: '/',
-      name: 'AnswerArea',
-      component: AnswerArea
+      redirect: '/paper'
     }
   ]
 })
