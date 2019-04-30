@@ -1,0 +1,392 @@
+[
+  {
+    "type": 1,
+    "question": "例题：下面哪些是搜索引擎网站",
+    "optionList": [
+      "百度",
+      "谷歌",
+      "Bing",
+      "新浪"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "type": 0,
+    "question": "例题：下面哪些不是搜索引擎网站",
+    "optionList": [
+      "百度",
+      "谷歌",
+      "Bing",
+      "新浪"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "type": 2,
+    "question": "例题：百度是搜索引擎网站",
+    "optionList": [
+      "是",
+      "否"
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "type": 1,
+    "question": "例题：下面哪些是搜索引擎网站",
+    "optionList": [
+      "百度",
+      "谷歌",
+      "Bing",
+      "新浪"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "type": 0,
+    "question": "例题：下面哪些不是搜索引擎网站",
+    "optionList": [
+      "百度",
+      "谷歌",
+      "Bing",
+      "新浪"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "type": 2,
+    "question": "例题：百度是搜索引擎网站",
+    "optionList": [
+      "是",
+      "否"
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "type": 1,
+    "question": "例题：下面哪些是搜索引擎网站",
+    "optionList": [
+      "百度",
+      "谷歌",
+      "Bing",
+      "新浪"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "type": 0,
+    "question": "例题：下面哪些不是搜索引擎网站",
+    "optionList": [
+      "百度",
+      "谷歌",
+      "Bing",
+      "新浪"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "type": 2,
+    "question": "例题：百度是搜索引擎网站",
+    "optionList": [
+      "是",
+      "否"
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "type": 1,
+    "question": "例题：下面哪些是搜索引擎网站",
+    "optionList": [
+      "百度",
+      "谷歌",
+      "Bing",
+      "新浪"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "type": 0,
+    "question": "例题：下面哪些不是搜索引擎网站",
+    "optionList": [
+      "百度",
+      "谷歌",
+      "Bing",
+      "新浪"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "type": 2,
+    "question": "例题：百度是搜索引擎网站",
+    "optionList": [
+      "是",
+      "否"
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "type": 1,
+    "question": "例题：下面哪些是搜索引擎网站",
+    "optionList": [
+      "百度",
+      "谷歌",
+      "Bing",
+      "新浪"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "type": 0,
+    "question": "例题：下面哪些不是搜索引擎网站",
+    "optionList": [
+      "百度",
+      "谷歌",
+      "Bing",
+      "新浪"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "type": 2,
+    "question": "例题：百度是搜索引擎网站",
+    "optionList": [
+      "是",
+      "否"
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "type": 1,
+    "question": "例题：下面哪些是搜索引擎网站",
+    "optionList": [
+      "百度",
+      "谷歌",
+      "Bing",
+      "新浪"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "type": 0,
+    "question": "例题：下面哪些不是搜索引擎网站",
+    "optionList": [
+      "百度",
+      "谷歌",
+      "Bing",
+      "新浪"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "type": 2,
+    "question": "例题：百度是搜索引擎网站",
+    "optionList": [
+      "是",
+      "否"
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "type": 1,
+    "question": "例题：下面哪些是搜索引擎网站",
+    "optionList": [
+      "百度",
+      "谷歌",
+      "Bing",
+      "新浪"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "type": 0,
+    "question": "例题：下面哪些不是搜索引擎网站",
+    "optionList": [
+      "百度",
+      "谷歌",
+      "Bing",
+      "新浪"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "type": 2,
+    "question": "例题：百度是搜索引擎网站",
+    "optionList": [
+      "是",
+      "否"
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "type": 1,
+    "question": "例题：下面哪些是搜索引擎网站",
+    "optionList": [
+      "百度",
+      "谷歌",
+      "Bing",
+      "新浪"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "type": 0,
+    "question": "例题：下面哪些不是搜索引擎网站",
+    "optionList": [
+      "百度",
+      "谷歌",
+      "Bing",
+      "新浪"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "type": 2,
+    "question": "例题：百度是搜索引擎网站",
+    "optionList": [
+      "是",
+      "否"
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "type": 1,
+    "question": "例题：下面哪些是搜索引擎网站",
+    "optionList": [
+      "百度",
+      "谷歌",
+      "Bing",
+      "新浪"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "type": 0,
+    "question": "例题：下面哪些不是搜索引擎网站",
+    "optionList": [
+      "百度",
+      "谷歌",
+      "Bing",
+      "新浪"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "type": 2,
+    "question": "例题：百度是搜索引擎网站",
+    "optionList": [
+      "是",
+      "否"
+    ],
+    "answer": [
+      0
+    ]
+  },
+  {
+    "type": 1,
+    "question": "例题：下面哪些是搜索引擎网站",
+    "optionList": [
+      "百度",
+      "谷歌",
+      "Bing",
+      "新浪"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "type": 0,
+    "question": "例题：下面哪些不是搜索引擎网站",
+    "optionList": [
+      "百度",
+      "谷歌",
+      "Bing",
+      "新浪"
+    ],
+    "answer": [
+      3
+    ]
+  },
+  {
+    "type": 2,
+    "question": "例题：百度是搜索引擎网站",
+    "optionList": [
+      "是",
+      "否"
+    ],
+    "answer": [
+      0
+    ]
+  }
+]
