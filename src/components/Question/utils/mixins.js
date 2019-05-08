@@ -4,7 +4,7 @@ export const update = {
   components: {
     UtilContent
   },
-  props: ['options', 'value'],
+  props: ['options', 'value', 'number'],
   watch: {
     answer: {
       deep: true,

@@ -8,6 +8,7 @@ export default new Router({
   routes: [
     {
       path: '/paper',
+      name: 'paper',
       component: Paper
     },
     {

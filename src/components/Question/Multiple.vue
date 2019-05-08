@@ -1,6 +1,9 @@
 <template>
   <div>
-    <util-content :value="options.question" />
+    <util-content 
+      :value="options.question" 
+      :number="number"
+    />
     <!-- {{options.optionList}} -->
     <b-form-checkbox-group
       stacked

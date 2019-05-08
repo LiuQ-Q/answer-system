@@ -1,10 +1,10 @@
 <template>
-  <p>{{value}}</p>
+  <p>{{ number + 1 }}. {{ value }}</p>
 </template>
 
 <script>
 export default {
-  props: ['value']
+  props: ['value', 'number']
 }
 </script>
 

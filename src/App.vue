@@ -1,17 +1,12 @@
 <template>
   <div>
-    <my-header></my-header>
-    <router-view style="margin-top:56px;"/>
+    <router-view/>
   </div>
 </template>
 
 <script>
-import myHeader from './components/Header'
 export default {
-  name: 'App',
-  components: {
-    myHeader
-  }
+  name: 'App'
 }
 </script>
 
