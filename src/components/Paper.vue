@@ -17,7 +17,7 @@
 					v-model="answer[index]"
 				/>
 			</b-card>
-			<!-- 交卷按钮 -->
+
 			<b-button
 				block
 				class="mb-3"
